@@ -1,5 +1,5 @@
 import React from "react";
-import Homebutton from "@/components/homebutton";
+import Homebutton from "@/components/Homebutton";
 import styles from "../styles/Error.module.css";
 
 function error() {

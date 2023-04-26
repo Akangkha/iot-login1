@@ -311,7 +311,7 @@
 
 .img1:hover::after {
   content: "Projects";
-  color: white;
+  color: rgba(31, 41, 55, 1);
   font-size: 30px;
   font-family: "Oswald", sans-serif;
   animation: slideInRR;
@@ -327,7 +327,7 @@
 
 .img2:hover::after {
   content: "Newsletter";
-  color: white;
+  color: rgba(31, 41, 55, 1);
   font-size: 30px;
   font-family: "Oswald", sans-serif;
   animation: slideInRR;
@@ -336,7 +336,7 @@
 }
 .img3:hover::after {
   content: "Register";
-  color: white;
+  color: rgba(31, 41, 55, 1);
   font-size: 30px;
   font-family: "Oswald", sans-serif;
   animation: slideInRR;
